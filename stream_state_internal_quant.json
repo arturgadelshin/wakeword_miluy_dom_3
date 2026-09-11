@@ -9,9 +9,9 @@
     "ru"
   ],
   "micro": {
-    "probability_cutoff": 0.70,
+    "probability_cutoff": 0.10,
     "feature_step_size": 10,
-    "sliding_window_size": 16, 
+    "sliding_window_size": 5, 
     "tensor_arena_size": 62000,
     "minimum_esphome_version": "2024.7.0"
   }
