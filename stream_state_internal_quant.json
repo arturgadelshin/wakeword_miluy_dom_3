@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "version": 2,
+  "version": 3,
   "wake_word": "miluy_dom_3",
   "author": "GreenGarden",
   "website": "https://github.com/arturgadelshin/wakeword_miluy_dom",
@@ -9,7 +9,7 @@
     "ru"
   ],
   "micro": {
-    "probability_cutoff": 0.90,
+    "probability_cutoff": 0.55,
     "feature_step_size": 10,
     "sliding_window_size": 5, 
     "tensor_arena_size": 30000,
